@@ -4,6 +4,9 @@
 OKCash Wallets
 Choose your wallet
 
+Portefeuilles OKCash
+Choisissez votre portefeuille
+
 
 IoT
 Raspberry Pi
@@ -18,16 +21,28 @@ Windows Installer
 Windows zip file
 Mac OS X
 Ubuntu Linux
-	  	
+
+Ordinateur
+Instalateur Windows
+Fichier zip Windows
+Mac OS X
+Ubuntu Linux
 
 Web
 CriptoPay
 CoinToPay
 CoinWallet
-	  	
+
+Internet
+CriptoPay
+CoinToPay
+CoinWallet
 
 Off-line
-Paper Wallets 
+Paper Wallets
+
+Hors ligne
+Porte-Feuille Papier 
 
 ******a2
 
@@ -35,52 +50,99 @@ Updated Bootstrap: OKchain
 Latest wallet release notes: v3.0.0.4
 Config file for services: okcash.conf
 
+Mise à jour Bootstrap: OKchain
+Dernière version du Porte-Feuille: v3.0.0.4
+Fichier de configuration pour les services: okcash.conf
+
 First Fully optimized OS for Raspberry Pi with integrated Crypto Wallets
 *Free Distribution
 
+Premier OS entièrement optimisé pour Raspberry Pi avec des portefeuilles Crypto intégrés
+* Distribution gratuite
+
 Welcome to the next generation of digital currency
 OK is open-source; its design is public, nobody owns or controls OKCash and everyone can take part.
+
+Bienvenue à la prochaine génération de devise virtuelle
+OK est open-source; Sa conception est publique, personne ne possède ou ne contrôle OKCash et tout le monde peut y participer.
 
 ******a3
 
 FAST TRANSACTIONS
 OKCash is digital cash. Transactions have really fast confirmations, making them virtually instant.
 
+TRANSACTIONS RAPIDES
+OKCash est de l'argent numérique. Les transactions ont des confirmations très rapides, les rendant pratiquement instantanées.
+
 GLOBAL PAYMENTS
 You can send OKCash to family or friends, or pay for goods or services, anywhere in the world.
+
+PAYMENTS GLOBAL
+Vous pouvez envoyer OKCash à votre famille ou à vos amis, ou payer des biens ou des services, n'importe où dans le monde.
 
 NO BANK FEES
 OKCash is a decentralized digital currency, meaning there are no banks to take a cut of your money.
 
+PAS DE FRAIS BANCAIRES
+OKCash est une devise numérique décentralisée, ce qui signifie qu'il n'ya pas de banques à prendre une coupe de votre argent.
+
 SECURE NETWORK
 The OKCash network is decentralized and free from middlemen, giving you back control of your finances and providing a secure network for all of your payments.
+
+RÉSEAU SÉCURISÉ
+Le réseau OKCash est décentralisé et exempt d'intermédiaires, vous donnant le contrôle de vos finances et fournissant un réseau sécurisé pour tous vos paiements.
 
 SAVE OKCASH
 Simply Keep your OKCash wallet software running and you will start earning a 69% yearly reward on the OKCash coins you have in your wallet.
 
+ÉCONOMISER OKCASH
+Il suffit de garder votre logiciel de portefeuille OKCash ouvert et vous commencerez à gagner une récompense annuelle de 69% sur les pièces OKCash que vous avez dans votre portefeuille.
+
 THE OKCASH WALLET
 Your wallet is the software you use to send, receive and store your OKCash. It’s simple to use and you can choose to send payments from your wallet.
+
+LE PORTFEUILLE OKCASH
+Votre portefeuille est le logiciel que vous utilisez pour envoyer, recevoir et stocker vos OKCash. Il est simple à utiliser et vous pouvez choisir d'envoyer des paiements à partir de votre portefeuille.
 
 SHARE OKCASH
 OKCash makes it fun and easy for everyone to share and spend via social networks, bringing people together through social payments.
 
+PARTAGER OKCASH
+OKCash rend amusant et facile pour tout le monde de partager et de dépensser via les réseaux sociaux, de rassembler les gens par le biais de paiements sociaux.
+
 ACCEPT OKCASH
 All you need is an OKCash wallet to accept OKCash as payment for goods or services. Display your unique address to begin accepting payments. There are no processing fees and transactions are fast.
+
+ACCEPTER OKCASH
+Tout ce que vous avez besoin est un portefeuille OKCash pour payer vos biens et services. Affichez votre adresse unique pour commencer à accepter les paiements. Il n'y a pas de frais de traitement et les transactions sont rapides.
 
 ******a4
 
 WORLDWIDE STATS
+
+STATISTIQUE MONDIALE
  
 Addresses created so far
+
+Adresses créé jusqu'à présent 
 
 Addresses holding
 more than 1000 OK
 
+Adresses possèdant
+plus de 1000 OK
+
 Coinmarketcap place
+
+Localisation du capital du Marcher
 
 Coins in circulation
 
+Pièces en circulation
+
 The Future of Social Payments
+
+Le Future des Paiments Sociaux
 
 ******a5
 
@@ -89,93 +151,204 @@ The Future of Social Payments
     Buy/Sell on Bleutrade
     Buy/Sell on Cryptopia
     Terms of Use
-
+    
+    Portefeuille OKCash en lingne
+    Acheter/Vendre sur Bittrex
+    Acheter/Vendre sur Bleutrade
+    Acheter/Vendre sur Cryptopia
+    Termses d'utilisations
+    
     CoinGecko Rank
     CoinMarketCap Rank
     OKCash Explorer
     Github - Source
     OKCash on IRC
+    
+    CoinGecko Rang
+    CoinMarketCap Rang
+    Explorateur OKCash
+    Github - Source
+    OKCash sur IRC
 
 Follow OK
+
+Suivez OK
 
 ******b1
 
 Individuals
 
+Individues
+
  OKCash for Individuals
 The Future of Social Payments
 
+OKCash pour les individues
+Le Future des Paiments Sociaux
+
 OKCash on mobiles is a perfect way to tip, share OK or pay for products and services on the go. It allows you to pay in a real easy and fast way by either scanning a QR code to make the payment, or by typing the address directly to send the coins. No need to sign up, swipe cards, type a PIN, or anything else. All you need to receive OK payments is to display the QR code in your OKCash app and let your friend scan your mobile. You can also use some of the Social networks to send OK anywhere without the need for the recipient to even have an OKCash wallet installed to be able to get them.
+
+OKCash sur les mobiles est un moyen parfait pour donner des pourboires, partager OK ou payer pour des produits et des services sur la route. Il vous permet de payer d'une manière très simple et rapide en scannant un code QR pour effectuer le paiement, ou en tapant l'adresse directement pour envoyer les pièces. Pas besoin de vous inscrire, de glisser des cartes, de taper un NIP ou autre chose. Tout ce que vous devez recevoir des paiements OK est d'afficher le code QR dans votre application OKCash et laissez votre ami scanner votre mobile. Vous pouvez également utiliser certains des réseaux sociaux pour envoyer OK n'importe où sans que le destinataire ait même un portefeuille OKCash installé pour pouvoir les obtenir.
+
 Security, coin control
 
+Sécurité, contrôle des pièces
+
 OKCash transactions are secured by military grade cryptography. Nobody can charge you money or make a payment on your behalf. And as long as you take the required steps to secure your wallet, OKCash can give you full control over your money and a strong level of protection against many types of fraud. You are always in control of your own money and can use the coin control system to have even more detailed experience.
+
+Les transactions OKCash sont sécurisées par une cryptographie de qualité militaire. Personne ne peut vous facturer de l'argent ou effectuer un paiement en votre nom. Et aussi longtemps que vous prenez les mesures nécessaires pour sécuriser votre portefeuille, OKCash peut vous donner un contrôle total sur votre argent et un niveau élevé de protection contre de nombreux types de fraude. Vous avez toujours le contrôle de votre propre argent et pouvez utiliser le système de contrôle des pièces pour avoir une expérience encore plus détaillée.
+
 Works everywhere all the time
 
+Fonctionne partout tout le temps
+
 Just like the world wide web. The OKCash Network is live 24/7 365 days per year and accessible from any part of the world with an internet connection, it is always available and accesible by any of the different wallets or services. You are free to use either one of the online wallets, the core wallet, the daemons or one of the different multiwallets for Android for OKCash, so every user can select their favorite clients. No problem there; All clients are compatible as they use the same open technology. The network is decentralized hence is free from middle men and central points of failure.
+
+Tout comme le World Wide Web. Le Réseau OKCash est en direct 24h / 24 et 365 jours par année et accessible depuis n'importe quelle partie du monde avec une connexion Internet. Il est toujours disponible et accessible par l'un des différents portefeuilles ou services. Vous êtes libre d'utiliser soit l'un des portefeuilles en ligne, le portefeuille de principale, les portefeuille sans interface graphique ou l'un des différents multi-portefeuille valide sur Android pour OKCash, de sorte que chaque utilisateur peut choisir leurs clients préférés. Aucun problème de compatibilité; Tous les clients sont compatibles car ils utilisent la même technologie ouverte. Le réseau est décentralisé, donc, est exempté d'intermédiaires et de point d'échec central.
+
 Fast and easy International payments
 
+Paiements internationaux rapides et faciles
+
 Sending OK across borders is as easy as sending an email. There are no waiting times like with banks, nor extra fees or special limitations like the minimum or maximum amount you can send, you have full control and the reciever will see the payment reflected in seconds.
+
+Envoyer OK de l'autre côter de la frontière est aussi facile que d'envoyer un courriel. Il n'ya pas de temps d'attente comme avec les banques, ni frais supplémentaires ou des limitations spéciales comme le montant minimum ou maximum que vous pouvez envoyer, vous avez un contrôle total et le récepteur verra le paiement apparaitre en quelques secondes.
+
 Lowest fees on market
 
+Frais le plus bas sur le marché
+
 There is no fee to receive OKCash, and the fee for sending is just 0.0001 OKcash no matter where you send it, being one of the lowest fees in the market. On some wallets you can control how large a fee to pay when spending. higher fees can encourage even faster confirmations of your transactions.
+
+Il n'ya pas de frais pour recevoir OKCash, et les frais d'envoi sont seulement de 0.0001 OKcash peu importe d'où vous l'envoyer,ce qui fait l'un des plus bas prix sur le marché. Sur certains portefeuilles, vous pouvez contrôler la valeur des frais à payer lorsque vous envoyer des OK. Des frais plus élevés peuvent rendre les confirmations encore plus rapides pour vos transactions.
+
 Protect your identity
+
+Protégez votre identité
 
 With OKCash, there is no data that some malicious actor can collect in order to impersonate you. In fact by using good habits to protect your privacy you can send a payment without revealing your identity.
 
+Avec OKCash, il n'y a pas de données qu'une personne malveillante peut collecter pour volé votre identité. En fait, en utilisant de bonnes habitudes pour protéger votre vie privée, vous pouvez envoyer un paiement sans révéler votre identité.
 
 ******b2
 
 Businesses
 
+Entreprises
+
  OKCash for Businesses
 Lowest fees on market
 
+ OKCash pour Entreprises
+Frais les plus bas du marché
+
 There is no fee to receive OKCash, and the fee for sending is just 0.0001 OK no matter where you send it, being one of the lowest fees in the market. On some wallets you can control how large a fee to pay when spending. higher fees can encourage even faster confirmations of your transactions.
+
+Il n'ya pas de frais pour recevoir OKCash, et les frais d'envoi sont seulement de 0.0001 OKcash peu importe d'où vous l'envoyer,ce qui fait l'un des plus bas prix sur le marché. Sur certains portefeuilles, vous pouvez contrôler la valeur des frais à payer lorsque vous envoyer des OK. Des frais plus élevés peuvent rendre les confirmations encore plus rapides pour vos transactions.
+
 Protection against fraud
 
+Protextion contre la fraude
+
 Any business that accepts credit cards or PayPal knows the problem of payments that are later reversed. Charge back frauds result in limited market reach and increased prices, which in turn penalizes customers. OKCash payments are irreversible and secure, meaning that the cost of fraud is no longer pushed onto the shoulders of the merchants.
+
+Toute entreprise qui accepte des cartes de crédit ou PayPal connaît le problème des paiements qui sont inversés plus tard. Les fraudes à la charge entraînent une portée limitée du marché et une augmentation des prix, ce qui pénalise les clients. Les paiements OKCash sont irréversibles et sécurisés, ce qui signifie que le coût de la fraude n'est plus poussé sur les épaules des marchands.
+
 Fast and easy International payments
 
+Paiments International rapide et facile
+
 Sending OK across borders is as easy as sending an email. There are no waiting times like with banks, nor extra fees or special limitations like the minimum or maximum amount you can send, you have full control and the receiver will see the payment reflected in seconds.
+
+Envoyer OK de l'autre côter de la frontière est aussi facile que d'envoyer un courriel. Il n'ya pas de temps d'attente comme avec les banques, ni frais supplémentaires ou des limitations spéciales comme le montant minimum ou maximum que vous pouvez envoyer, vous avez un contrôle total et le récepteur verra le paiement apparaitre en quelques secondes.
+
 No PCI compliance required
 
+Aucune conformité PCI requise
+
 Accepting credit cards online typically requires extensive security checks in order to comply with the PCI standard. OKCash still requires you to secure your wallet and your payment requests. However, you do not carry the costs and responsibilities that come with processing sensitive information from your customers like credit card numbers.
+
+L'acceptation de cartes de crédit en ligne nécessite généralement de nombreux contrôles de sécurité afin de se conformer à la norme PCI. OKCash vous oblige toujours à sécuriser votre portefeuille et vos demandes de paiement. Toutefois, vous ne portez pas les coûts et les responsabilités qui viennent avec le traitement des informations sensibles de vos clients comme les numéros de carte de crédit.
+
 Gain more exposure
 
+Ayez plus d'exposition
+
 OKCash is an emerging market of new customers who are searching for ways to spend their OKCash. Accepting them is a good way to get new customers and give your business some new visibility. Accepting a new payment method has often shown to be a clever practice for online businesses.
+
+OKCash est un marché émergent de nouveaux clients qui cherchent des moyens de dépenser leur OKCash. Les accepter est un bon moyen d'obtenir de nouveaux clients et de donner à votre entreprise une nouvelle visibilité. Accepter une nouvelle méthode de paiement a souvent démontré être une bonne initiative pour les entreprises en ligne.
+
 Accounting transparency
 
+Comptabilité transparante
+
 Many organizations are required to produce accounting documents about their activity. Using OK allows you to offer the highest level of transparency since you can provide information your members can use to verify your balances and transactions. Non-profit organizations can also allow the public to see how much they receive in donations, empowering them by the transparency of the system.
+
+De nombreuses organisations sont tenues de produire des documents comptables sur leur activité. L'utilisation d'OK vous permet d'offrir le plus haut niveau de transparence puisque vous pouvez fournir les informations que vos membres doivent utiliser pour vérifier vos soldes et vos transactions. Les organismes à but non lucratif peuvent également permettre au public de voir combien ils reçoivent en dons, en les habilitant par la transparence du système.
 
 ******b3
 
 Developers
 
+Développeurs
+
  OKCash for Developers
 Simplest and most Social of all payment systems
 
+ OKCash pour les développeurs
+Le plus simple et le plus social de tous les systèmes de paiement
+
 Unless payment needs to be associated with automatic invoices, accepting money is as simple as sending an OKCash address link or displaying an OK QR code. This simple setup is within reach of any user and can fulfill the needs of a good range of clients. When done publicly, it is especially suitable for transparent donations and tips. You can even share OKCash via IRC or the different Social Networks like Reddit or twitter without even having a wallet installed.
+
+Sauf si le paiement doit être associé à des factures automatiques, accepter de l'argent est aussi simple que d'envoyer un lien d'adresse OKCash ou d'afficher un code QR OK. Cette configuration simple est à la portée de tout utilisateur et peut répondre aux besoins d'une bonne gamme de clients. Lorsqu'il est fait publiquement, il est particulièrement adapté pour des dons transparents et des conseils. Vous pouvez même partager OKCash via IRC ou les différents réseaux sociaux comme Reddit ou Twitter sans même avoir un portefeuille installé.
+
 Third party APIs
 
+API de tierce partie
+
 There are many third party payment processing services that provide APIs; you don't need to store OKCash on your server and handle the security that this implies. Additionally, most of these APIs allow you to process invoices and exchange your OKCash into your local currency at competitive costs. Being Open Source you can use them to create new services as well.
+
+Il existe de nombreux services de traitement de paiement tiers qui fournissent des API; Vous n'avez pas besoin de stocker OKCash sur votre serveur et de gérer la sécurité que cela implique. En outre, la plupart de ces API vous permettent de traiter les factures et d'échanger votre OKCash dans votre devise locale à des coûts compétitifs. Étant Open Source, vous pouvez également les utiliser pour créer de nouveaux services.
+
 You can be your own financial system
 
+Vous pouvez être votre propre système financier
+
 If you don't use any third party APIs, you can integrate an OKCash node directly into your applications, allowing you to become your own bank and payment processor. With all the responsibilities that this implies, you can build amazing systems that process OKCash transactions however you would like.
+
+Si vous n'utilisez pas d'API tiers, vous pouvez intégrer directement un point de connection OKCash dans vos applications, ce qui vous permet de devenir votre propre banque et processeur de paiement. Avec toutes les responsabilités que cela implique, vous pouvez construire des systèmes étonnants qui traitent les transactions OKCash comme vous le souhaitez.
+
 OKCash addresses to track invoices
 
+adresses OKCash pour tracker les factures
+
 OK creates a unique address for each transaction. So if you were to build a payment system associated with an invoice, you simply need to generate and monitor an OK address for each payment. You should never use the same address for more than one transaction.
+
+OK crée une adresse unique pour chaque transaction. Donc, si vous deviez construire un système de paiement associé à une facture, il vous suffit de générer et de surveiller une seule adresse OK pour chaque paiement. Il n'est pas obligatoire d'utiliser la même adresse pour plus d'une transaction.
+
 Most of the security is on the client side
 
+La majeure partie de la sécurité est du côté client
+
 Most security is handled by the protocol, eliminating the need for PCI compliance. Fraud prevention can be simplified down to monitoring a single variable: the confirmation score. Beyond that, keeping your OK secure is mainly a matter of securing your wallet and using HTTPS or other secure protocols to send payment requests to customers.
+
+La plus grande partie de la sécurité est gérée par le protocole, ce qui élimine la nécessité d'une conformité PCI. La prévention de la fraude peut être simplifiée jusqu'à la surveillance d'une seule variable: le score de confirmation. Au-delà, garder votre sécurité OK est principalement une question de sécuriser votre portefeuille et en utilisant HTTPS ou autres protocoles sécurisés pour envoyer des demandes de paiement aux clients.
+
 The Future of Social Payments
 
+Le future des paiments sociaux
+
 OKCash allows you to design new and creative online services that couldn't exist before because of financial limitations. This includes tipping systems, automated payment solutions, distributed crowd-funding services, time locked payment management, public asset tracking, low-trust escrow services, micro-payment channels, staking pools and much more.
+
+OKCash vous permet de concevoir des services en ligne nouveaux et créatifs qui n'existaient pas auparavant en raison de limitations financières. Cela inclut les systèmes d'infiltration, les solutions de paiement automatisées, les services de financement multiservices distribués, la gestion des paiements à temps bloqué, le suivi des biens publics, les services fiduciaires à faible confiance, les circuits de micro-paiement, les "staking pools" et bien plus encore.
 
 ******b4
 
  Getting Started
 How to use OKCash
 
+Pour commencer
+Comment utiliser OKCash
  
 1. Inform yourself
 
@@ -183,187 +356,406 @@ OKCash is different than what you know and use every day. Before you start using
 
 Read more
 
+1. Informez-vous
+
+OKCash est différent de ce que vous connaissez et utilisez tous les jours. Avant de commencer à utiliser OKCash, il ya quelques choses que vous devez savoir pour l'utiliser en toute sécurité et éviter les pièges courants.
+
+Lire la suite
+
 2. Choose your wallet
 
 You can bring a OKCash wallet in your everyday life with your mobile or you can have a wallet only for online payments on your IoT device or in your computer. In any case, choosing your wallet can be done in a minute.
 Choose your OK wallet
+
+2. Choisissez votre portefeuille
+
+Vous pouvez apporter un portefeuille OKCash dans votre vie quotidienne avec votre mobile ou vous pouvez avoir un portefeuille uniquement pour les paiements en ligne sur votre périphérique IoT ou sur votre ordinateur. Cela dit, le choix de votre portefeuille peut être fait dans une minute.
+Choisissez votre portefeuille OK
 	  	
 3. Get OKCash
 
 You can get OKCash by accepting them as a payment for goods and services or by buying them from a friend or someone near you. You can also buy them directly from an exchange with your bank account.
 Find exchanges
+
+3. Obtenez OKCash
+
+Vous pouvez obtenir des OKCash en les acceptant comme une forme de paiement pour des biens et des services ou en les achetant d'un ami ou quelqu'un près de vous. Vous pouvez également les acheter directement à partir d'un échange avec votre compte bancaire.
+Trouver des échanges
+
 4. Spend OKCash
 
 There is a growing number of services and merchants accepting OKCash all over the world. You can use OKCash to pay them and rate your experience to help honest businesses to gain more visibility.
 Find merchants
 
+4. Dépenser OKCash
 
+Il ya un nombre croissant de services et de commerçants acceptant OKCash dans le monde entier. Vous pouvez utiliser OKCash pour les payer et évaluer votre expérience pour aider les entreprises honnêtes à gagner plus de visibilité.
+Trouver des commerçants
 
 How to accept OKCash
 
+Comment accepter OKCash
  
 1. Inform yourself
 
 OKCash does not require merchants to change their habits. However, OKCash is different than what you know and use every day. Before you start using OKCash, there are a few things that you need to know in order to use it securely and avoid common pitfalls.
 Read more
+
+1. Informez-vous
+
+OKCash n'exige pas que les commerçants changent leurs habitudes. Cependant, OKCash est différent de ce que vous connaissez et utilisez tous les jours. Avant de commencer à utiliser OKCash, il ya quelques choses que vous devez savoir pour l'utiliser en toute sécurité et éviter les pièges courants.
+Lire la suite
+
 2. Processing payments
 
 You can process payments and invoices by yourself or you can use merchant services and deposit money in your local currency or OKCash. Most point of sales businesses use a tablet or a mobile phone to let customers pay with their mobile phones.
 Find merchant services
-	  	
+
+2. Traitement des paiements
+
+Vous pouvez traiter les paiements et les factures par vous-même ou vous pouvez utiliser les services marchands et déposer de l'argent dans votre devise locale ou OKCash. La plupart des entreprises de point de vente utilisent une tablette ou un téléphone mobile pour permettre aux clients de payer avec leurs téléphones mobiles.
+Trouver des services marchands
+
 3. Accounting and taxes
 
 Merchants often deposit and display prices in their local currency. In other cases, OKCash works similarly to a foreign currency. To get appropriate guidance regarding tax compliance for your own jurisdiction, you should contact a qualified accountant in your country.
+
+3. Comptabilité et impôts
+
+Les marchands déposent souvent et affichent les prix dans leur monnaie locale. Dans d'autres cas, OKCash fonctionne de manière similaire à une devise étrangère. Pour obtenir des conseils appropriés concernant la conformité fiscale pour votre propre juridiction, vous devez contacter un comptable qualifié dans votre pays.
+
 4. Gaining visibility
 
 There is a growing number of users searching for ways to spend their OKCash. You can submit your business in online directories to help them easily find you. You can also display the OKCash logo on your website or your brick and mortar business.
 
+4. Gagner de la visibilité
+
+Il ya un nombre croissant d'utilisateurs cherchant des façons d'utiliser leur OKCash. Vous pouvez soumettre votre entreprise dans les annuaires en ligne pour les aider à vous trouver facilement. Vous pouvez également afficher le logo OKCash sur votre site Web ou votre entreprise de brique et de mortier.
 
 *****b5
 
  How it works
 OK basics for new users
 
+ Comment cela fonctionne
+Principes de base de OK pour les nouveaux utilisateurs
+
 As a new user, you can get started with OKCash without understanding the technical details. Once you have installed an OKCash wallet on your computer, mobile phone or IoT device, it will generate your first OK address and you can create more addresses whenever you need. You can disclose your addresses to your friends or costumers so that they can pay you or vice versa. This is pretty similar to how email works, except that OKCash addresses should only be used once.
+
+En tant que nouvel utilisateur, vous pouvez commencer avec OKCash sans comprendre les détails techniques. Une fois que vous avez installé un portefeuille OKCash sur votre ordinateur, votre téléphone mobile ou votre périphérique IoT, il génère votre première adresse OK et vous pouvez créer plus d'adresses lorsque vous en avez besoin. Vous pouvez divulguer vos adresses à vos amis ou clients afin qu'ils puissent vous payer ou vice versa. C'est très similaire à la façon dont fonctionne le courrier électronique, sauf que les adresses OKCash ne devrait être utilisé qu'une seule fois.
 
 Balances - OK block chain
 
+Balances - chaîne de blocs OK
+
 The OK block chain is a shared public ledger on which the entire OKCash network relies. All confirmed transactions are included in the OK block chain. This way, OKCash wallets can calculate their spendable balance and the new transactions can be verified to be spending OK coins that are actually owned by the spender. The integrity and the chronological order of the block chain are enforced with cryptography.
+
+La chaîne de blocs OK est un journal public partagé sur lequel repose tout le réseau OKCash. Toutes les transactions confirmées sont incluses dans la chaîne de blocs OK. De cette façon, les portefeuilles OKCash peuvent calculer leur solde dépensable et les nouvelles transactions afin de pouvoir vérifier la balance total qui peut être dépenser par l'utilisateur. L'intégrité et l'ordre chronologique de la chaîne de blocs sont renforcés par la cryptographie.
 
 Transactions - private keys
 
+Transactions - clés priver
+
 A transaction is a transfer of value between OKCash wallets that gets included in the OK block chain. OKCash wallets keep a secret piece of data called a private key or seed, which is used to sign transactions, providing a mathematical proof that they have come from the owner of the wallet. The signature also prevents the transaction from being altered by anybody once it has been issued. All transactions are broadcasted between users and usually begin to be confirmed by the network in the following 10 seconds, through a process called staking.
+
+Une transaction est un transfert de valeur entre les portefeuilles OKCash qui est inclus dans la chaîne de bloc OK. Les portefeuilles OKCash gardent une donnée secrète appelée clé privée ou semence, qui est utilisée pour signer des transactions, fournissant une preuve mathématique qu'ils proviennent du propriétaire du portefeuille. La signature empêche également que la transaction ne soit modifiée par quiconque une fois qu'elle a été émise. Toutes les transactions sont diffusées entre les utilisateurs et commencent généralement à être confirmées par le réseau dans les 10 secondes suivantes, grâce à un processus appelé "staking".
 
 Processing - staking
 
+Traitement - "staking"
+
 Staking is a distributed consensus system that is used to confirm waiting transactions by including them in the OK block chain. It enforces a chronological order in the OK block chain, protects the neutrality of the network, and allows different computers to agree on the state of the system. To be confirmed, transactions must be packed in a block that fits very strict cryptography rules that will be verified by the network. These rules prevent previous blocks from being modified because doing so would invalidate all following blocks. Staking also creates the equivalent of a competitive lottery that prevents any individual from easily adding new blocks consecutively in the OK block chain. This way, no individuals can control what is included in the OK block chain or replace parts of the OK block chain to roll back their own spends.
 
+Staking est un système de consensus distribué qui est utilisé pour confirmer les transactions en attente en les incluant dans la chaîne de blocs OK. Il applique un ordre chronologique dans la chaîne de blocs OK, protège la neutralité du réseau et permet à différents ordinateurs de s'entendre sur l'état du système. Pour être confirmé, les transactions doivent être regroupées dans un bloc qui respecte des règles de cryptographie très strictes qui seront vérifiées par le réseau. Ces règles empêchent la modification des blocs précédents car cela annulerait tous les blocs suivants. Staking crée également l'équivalent d'une loterie concurrentielle qui empêche toute personne d'ajouter facilement de nouveaux blocs consécutivement dans la chaîne de bloc OK. De cette façon, aucun individu ne peut contrôler ce qui est inclus dans la chaîne de bloc OK ou remplacer des parties de la chaîne de bloc OK pour annuler leurs propres dépenses.
 
 ******b6
 
 
 Some things you need to know
 
+Certines choses vous devez savoir
+
 If you are about to explore OKCash, there are a few things you should know. OKCash lets you exchange money in a different way than with usual banks. As such, you should take time to inform yourself before using OKCash for any serious transaction. OKCash should be treated with the same care as your regular wallet, or even more in some cases.
+
+Si vous êtes sur le point d'explorer OKCash, il ya quelques choses que vous devez savoir. OKCash vous permet d'échanger de l'argent d'une manière différente de celle des banques habituelles. Cela étant dit, vous devriez prendre le temps de vous informer avant d'utiliser OKCash pour toute transaction sérieuse. OKCash devrait être traité avec le même soin que votre portefeuille régulier, ou même plus dans certains cas.
+
 Securing your wallet
 
+Sécuriser votre portefeuille
+
 Like in real life, your wallet must be secured. OKCash makes it possible to transfer value anywhere in a very easy way and it allows you to be in control of your money. Such great features also come with great security concerns. At the same time, OKCash can provide very high levels of security if used correctly. Always remember that it is your responsibility to adopt good practices in order to protect your money. Read more about securing your wallet.
+
+Comme dans la vie réelle, votre portefeuille doit être sécurisé. OKCash permet de transférer la valeur n'importe où d'une façons très facile et il vous permet d'être en contrôle de votre argent. De telles fonctionnalités viennent également avec de grandes responsabiliter de sécurité. En même temps, OKCash peut fournir des niveaux de sécurité très élevés si utilisé correctement. Rappelez-vous toujours qu'il est de votre responsabilité d'adopter de bonnes pratiques afin de protéger votre argent. En savoir plus sur la sécurisation de votre portefeuille.
+
 OKCash price is volatile
 
+La valeur d'OKCash est volatile
+
 The price of a OKCash can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with OKCash is not recommended at this point. OKCash should be seen like a high risk asset, and you should never store money that you cannot afford to lose with OKCash. If you receive payments with OKCash, many service providers can convert them to your local currency.
+
+Le prix d'un OKCash peut augmenter ou diminuer de façon imprévisible sur une courte période de temps en raison de sa jeune économie, sa nouvelle intégration, et parfois des marchés illiquides. Par conséquent, garder vos économies avec OKCash n'est pas recommandé à ce stade. OKCash devrait être considéré comme un actif à risque élevé, et vous ne devriez jamais stocker de l'argent que vous ne pouvez pas vous permettre de perdre avec OKCash. Si vous recevez des paiements avec OKCash, de nombreux fournisseurs de services peuvent les convertir dans votre devise locale.
+
 OKCash payments are irreversible
 
+Les paiments OKCash sont irréverssible
+
 Any transaction issued with OKCash cannot be reversed, they can only be refunded by the person receiving the funds. That means you should take care to do business with people and organizations you know and trust, or who have an established reputation. For their part, businesses need to keep control of the payment requests they are displaying to their customers. OKCash can detect typos and usually won't let you send money to an invalid address by mistake. Additional services might exist in the future to provide more choice and protection for the consumer.
+
+Toute transaction effectuée avec OKCash ne peut pas être annulée, ils ne peuvent qu'être remboursés par la personne qui reçoit les fonds. Cela signifie que vous devriez prendre soin de faire des affaires avec des gens et des organisations que vous connaissez et en qui vous avez confiance, ou qui ont une réputation établie. Pour leur part, les entreprises doivent garder le contrôle des demandes de paiement qu'ils affichent à leurs clients. OKCash peut détecter les fautes de frappe et ne vous permet généralement pas d'envoyer de l'argent à une adresse incorrecte par erreur. D'autres services pourraient exister à l'avenir pour offrir davantage de choix et de protection au consommateur.
+
 OKCash is not anonymous
 
+OKCash n'est pas anonyme
+
 Some effort is required to protect your privacy with OK. All OK transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any OK address. The identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances. This is one reason why OK addresses should only be used once. Always remember that it is your responsibility to adopt good practices in order to protect your privacy. Read more about protecting your privacy.
+
+Un effort est nécessaire pour protéger votre vie privée avec OK. Toutes les transactions OK sont stockées publiquement et en permanence sur le réseau, ce qui signifie que n'importe qui peut voir le solde et les transactions de toute adresse OK. L'identité de l'utilisateur derrière une adresse reste inconnue jusqu'à ce que des informations soient révélées lors d'un achat ou dans d'autres circonstances. C'est une des raisons pour lesquelles les adresses OK ne doivent être utilisées qu'une seule fois. Rappelez-vous toujours qu'il est de votre responsabilité d'adopter de bonnes pratiques afin de protéger votre vie privée. 
+En savoir plus sur la protection de votre vie privée.
+
 Unconfirmed transactions aren't secure
+
+Les transaction non confirmés ne sont pas sécuritaire
 
 Transactions don't start out as irreversible. Instead, they get a confirmation score that indicates how hard it is to reverse them (see table). Each confirmation takes between 40 and 69 seconds, with 1 minute being the average. If the transaction pays too low a fee or is otherwise atypical, getting the first confirmation can take longer.
 
-Confirm­ations 	Lightweight wallets 	OKCash Core
-0 	Only safe if you trust the person paying you
-1 	Somewhat reliable 	    Mostly reliable
-5 	Mostly reliable 	        Highly reliable
-10 	Minimum recommendation for high-value OKCash transfers
+Les transactions ne commencent pas comme irréversibles. Au lieu de cela, ils obtiennent un score de confirmation qui indique à quel point il est difficile de les renverser (voir le tableau). Chaque confirmation prend entre 40 et 69 secondes, avec 1 minute étant la moyenne. Si la transaction paie des frais trop bas ou est autrement atypique, obtenir la première confirmation peut prendre plus longtemps.
+
+Confirmations 	Lightweight wallets 		OKCash Core
+0 		Only safe if you trust the person paying you
+1 		Somewhat reliable 		Mostly reliable
+5 		Mostly reliable 		Highly reliable
+10 		Minimum recommendation for high-value OKCash transfers
+
+Confirmations 	Portefeuilles légers 		OKCash Core
+0 		Seul en toute sécurité si vous faites confiance à la personne qui vous paie
+1 		Assez fiable			Fiable
+5 		Très fiable 			Très fiable
+10 		Recommandation minimale pour les transferts OKCash de grande valeur
 
 OKCash is still experimental
 
+OKCash est encore expérimentale
+
 OKCash is an experimental new currency that is in active development. Each improvement makes OKCash more appealing but also reveals new challenges as OKCash adoption grows. During these growing pains you might encounter increased fees, slower confirmations, or even more severe issues. Be prepared for problems and consult a technical expert before making any major investments, but keep in mind that nobody can predict OKCash's future.
+
+OKCash est une nouvelle devie expérimentale en développement actif. Chaque amélioration rend OKCash plus attrayant mais révèle également de nouveaux défis que l'adoption OKCash augmente. Au cours de ces croissances douloureuse, vous pourriez rencontrer des frais accrus, des confirmations plus lentes ou encore des problèmes plus graves. Soyez prêt pour les problèmes et de consulter un expert technique avant de faire des investissements majeurs, mais gardez à l'esprit que personne ne peut prédire l'avenir de OKCash.
+
 Government taxes and regulations
 
+Taxes gouvernementale et régulation
+
 OKCash is not an official currency. That said, most jurisdictions still require you to pay income, sales, payroll, and capital gains taxes on anything that has value, including OKCash. It is your responsibility to ensure that you adhere to tax and other legal or regulatory mandates issued by your government and/or local municipalities.
+
+OKCash n'est pas une devise officielle. Cela dit, la plupart des juridictions exigent encore que vous payiez les revenus, les ventes, la paie et les impôts sur les gains en capital sur tout ce qui a de la valeur, y compris OKCash. Il est de votre responsabilité de vous assurer que vous respectez les obligations fiscales et autres mandats légaux ou réglementaires émis par votre gouvernement et / ou les municipalités locales.
 
 ******b7
 
  Secure your Wallet
+ 
+ Sécuriser votre portefeuille
 
 Like in real life, your wallet must be secured. OKCash makes it possible to transfer value anywhere in a very easy way and it allows you to be in control of your money. Such great features also come with great security concerns. At the same time, OKCash can provide very high levels of security if used correctly. Always remember that it is your responsibility to adopt good practices in order to protect your money.
+
+Comme dans la vie réelle, votre portefeuille doit être sécurisé. OKCash permet de transférer la valeur n'importe où d'une manière très facile et il vous permet d'être dans le contrôle de votre argent. De telles fonctionnalités viennent également avec de grandes responsabilitées de sécurité. En même temps, OKCash peut fournir des niveaux de sécurité très élevés si utilisé correctement. Rappelez-vous toujours qu'il est de votre responsabilité d'adopter de bonnes pratiques afin de protéger votre argent.
+
+
 Be careful with online services
 
+Soyez prudent avec les service en ligne
+
 You should be wary of any service designed to store your money online. Many exchanges and online wallets suffered from security breaches in the past and such services generally still do not provide enough insurance and security to be used to store money like a bank. Accordingly, you might want to use other types of OKCash wallets. Otherwise, you should choose such services very carefully. Additionally, using two-factor authentication is recommended.
+
+Vous devez être prudent de tout service conçu pour stocker votre argent en ligne. Beaucoup d'échanges et de portefeuilles en ligne ont souffert de brèches de sécurité dans le passé et de tels services généralement ne fournissent pas encore suffisamment d'assurance et de sécurité pour être utilisé pour stocker votre argent comme une banque. Par conséquent, vous pouvez utiliser d'autres types de portefeuille OKCash. Sinon, vous devriez choisir ces services très attentivement. En outre, l'authentification à deux facteurs est recommandée.
+
 Small amounts for everyday uses
 
+De petites quantités pour les utilisations quotidiennes
+
 A OKCash wallet is like a wallet with cash. If you wouldn't keep a thousand dollars in your pocket, you might want to have the same consideration for your OKCash wallet. In general, it is a good practice to keep only small amounts of OK on your computer, mobile, or server for everyday uses and to keep the remaining part of your funds in a safer environment.
+
+Un portefeuille OKCash est comme un porte-monnaie avec de l'argent. Si vous ne gardez pas un millier de dollars dans votre poche, vous pourriez vouloir avoir la même considération pour votre portefeuille OKCash. En général, il est recommandé de ne conserver que de faibles quantités d'OK sur votre ordinateur, votre mobile ou votre serveur pour les utilisations quotidiennes et pour conserver la partie restante de vos fonds dans un environnement plus sûr.
+
 Backup your wallet
 
+Sauvegardez votre portefeuille
+
 Stored in a safe place, a backup of your wallet can protect you against computer failures and many human mistakes. It can also allow you to recover your wallet after your mobile or computer was stolen if you keep your wallet encrypted.
+
+Stocké dans un endroit sûr, une sauvegarde de votre portefeuille peut vous protéger contre les défaillances de l'ordinateur et de nombreuses erreurs humaines. Il peut également vous permettre de récupérer votre portefeuille après que votre mobile ou ordinateur a été volé si vous gardez votre portefeuille crypté.
+
 Backup your entire wallet
 
+Sauvegardez votre portefeuille entier
+
 Some wallets use many hidden private keys internally. If you only have a backup of the private keys for your visible OKCash addresses, you might not be able to recover a great part of your funds with your backup.
+
+Certains portefeuilles utilisent beaucoup de clés privées cachées à l'interne. Si vous n'avez qu'une sauvegarde des clés privées pour vos adresses OKCash visibles, il se peut que vous ne puissiez pas récupérer une grande partie de vos fonds avec votre sauvegarde.
+
 Encrypt online backups
 
+Crypter les sauvegardes en ligne
+
 Any backup that is stored online is highly vulnerable to theft. Even a computer that is connected to the Internet is vulnerable to malicious software. As such, encrypting any backup that is exposed to the network is a good security practice.
+
+Toute sauvegarde stockée en ligne est très vulnérable au vol. Même un ordinateur connecté à Internet est vulnérable aux logiciels malveillants. En tant que tel, le cryptage de toute sauvegarde qui est exposée au réseau est une bonne pratique de sécurité.
+
 Use many secure locations
 
+Utiliser plusieurs emplacements sécurisés
+
 Single points of failure are bad for security. If your backup is not dependent of a single location, it is less likely that any bad event will prevent you to recover your wallet. You might also want to consider using different medias like USB keys, papers and CDs.
+
+Les points uniques d'échec sont mauvais pour la sécurité. Si votre sauvegarde ne dépend pas d'un seul emplacement, il est moins probable qu'un mauvais événement vous empêchera de récupérer votre portefeuille. Vous pouvez également envisager d'utiliser différents supports tels que clés USB, papiers et CD.
+
 Make regular backups
 
+Faissez des sauvegarde régulièrement
+
 You need to backup your wallet on a regular basis to make sure that all recent OKCash change addresses and all new OKCash addresses you created are included in your backup. However, all applications will be soon using wallets that only need to be backed up once.
+
+Vous devez sauvegarder votre portefeuille régulièrement pour vous assurer que toutes les adresses de modification récentes de OKCash et toutes les nouvelles adresses OKCash que vous avez créées sont incluses dans votre sauvegarde. Cependant, toutes les applications seront bientôt en utilisant des portefeuilles qui ne doivent être sauvegardés qu'une seule fois.
+
 Encrypt your wallet
 
+Crypter votre portefeuille
+
 Encrypting your wallet or your smartphone allows you to set a password for anyone trying to withdraw any funds. This helps protect against thieves, though it cannot protect against keylogging hardware or software.
+
+hiffrer votre portefeuille ou votre smartphone vous permet de définir un mot de passe pour quiconque essaie de retirer des fonds. Cela aide à protéger contre les voleurs, mais il ne peut pas protéger contre le keylogging matériel ou logiciel.
+
 Never forget your password
 
+N'oubliez jamais votre mot de passe
+
 You should make sure you never forget the password or your funds will be permanently lost. Unlike your bank, there are very limited password recovery options with OKCash. In fact, you should be able to remember your password even after many years without using it. In doubt, you might want to keep a paper copy of your password in a safe place like a vault.
+
+Vous devez vous assurer que vous n'oubliez jamais le mot de passe ou vos fonds seront perdus de façon permanente. Contrairement à votre banque, il existe des options de récupération de mot de passe très limitées avec OKCash. En fait, vous devriez être en mesure de vous rappeler de votre mot de passe, même après de nombreuses années sans l'utiliser. En cas de doute, vous pouvez conserver une copie papier de votre mot de passe dans un endroit sûr comme un coffre-fort.
+
 Use a strong password
 
+Utilisez un mot de passe fort
+
 Any password that contains only letters or recognizable words can be considered very weak and easy to break. A strong password must contain letters, numbers, punctuation marks and must be at least 16 characters long. The most secure passwords are those generated by programs designed specifically for that purpose. Strong passwords are usually harder to remember, so you should take care in memorizing it.
+
+Tout mot de passe qui ne contient que des lettres ou des mots reconnaissables peut être considéré comme très faible et facile à casser. Un mot de passe fort doit contenir des lettres, des chiffres, des signes de ponctuation et doit comporter au moins 16 caractères. Les mots de passe les plus sûrs sont ceux générés par des programmes spécialement conçus à cet effet. Les mots de passe forts sont généralement plus difficiles à retenir, donc vous devriez prendre soin de le mémoriser.
+
 Offline wallet for savings
 
-An offline wallet, also known as cold storage, provides the highest level of security for savings. It involves storing a wallet in a secured place that is not connected to the network. When done properly, it can offer a very good protection against computer vulnerabilities. Using an offline wallet in conjunction with backups and encryption is also a good practice. Here is an overview of some approaches.
+Portefeuille hors ling for les économies
+
+An offline wallet, also known as cold storage, provides the highest level of security for savings. It involves storing a wallet in a secured place that is not connected to the network. When done properly, it can offer a very good protection against computer vulnerabilities. Using an offline wallet in conjunction with backups and encryption is also a good practice. 
+Here is an overview of some approaches.
+
+Un portefeuille hors ligne, également connu sous le nom de stockage froid, fournit le plus haut niveau de sécurité pour l'épargne. Il s'agit de stocker un portefeuille dans un endroit sécurisé qui n'est pas connecté au réseau. Lorsqu'il est fait correctement, il peut offrir une très bonne protection contre les vulnérabilités de l'ordinateur. L'utilisation d'un portefeuille hors ligne en conjonction avec les sauvegardes et le cryptage est également une bonne pratique. 
+Voici un aperçu de certaines approches.
+
 Keep your software up to date
 
+Garder votre logiciel à jour
+
 Using the latest version of your OKCash software allows you to receive important stability and security fixes. Updates can prevent problems of various severity, include new useful features and help keep your wallet safe. Installing updates for all other software on your computer or mobile is also important to keep your wallet environment safer.
+
+L'utilisation de la dernière version de votre logiciel OKCash vous permet de recevoir des correctifs de stabilité et de sécurité importants. Les mises à jour peuvent prévenir des problèmes de gravité différente, inclure de nouvelles fonctionnalités utiles et aider à garder votre portefeuille en toute sécurité. L'installation de mises à jour pour tous les autres logiciels sur votre ordinateur ou mobile est également importante pour garder votre environnement de portefeuille plus sûr.
+
 Think about your testament
 
+Pensez à votre testament
+
 Your OKCash can be lost forever if you don't have a backup plan for your peers and family. If the location of your wallets or your passwords are not known by anyone when you are gone, there is no hope that your funds will ever be recovered. Taking a bit of time on these matters can make a huge difference.
+
+Votre OKCash peut être perdu à jamais si vous n'avez pas de plan de sauvegarde pour vos pairs et votre famille. Si l'emplacement de vos portefeuilles ou vos mots de passe ne sont pas connus par quelqu'un quand vous êtes ne serai plus, il n'y a aucun espoir que vos fonds seront jamais récupérés. Prendre un peu de temps sur ces questions peut faire une énorme différence.
 
 ******b8
 
 Resources
 
+Ressources
+
 Useful places
+
+Endroit utils
 
 OKCash BtcTalk Original Ann
 
+OKCash BtcTalk Ann originale
+
 OKCash Wiki (soon)
 
+OKCash wiki (bientôt)
+
 Bitcoin & OKCash Explorer Rocks
+
+Bitcoin & OKcash explorateur rocks
 
 Bitcoin & OKCash Community Events
 Directories and Merchants
 
+Événements communautaires Bitcoin & OKCash
+Annuaires et Marchands
+
 Wallets - okcash.co
+
+Portefeuille - okcash.co
 
 Merchants - cointopay.com
 
+Marchants - cointopay.com
+
 Merchants - cryptopia.co.nz
+
+Marchants - cryptopia.co.nz
+
+Web hosting services - cryptocloudhosting.org
 
 Web hosting services - cryptocloudhosting.org
 
 Merchant tools - (under construction)
 
+Outils Marchants - (En construction)
+
 Non-profits - (under construction)
+
+Non lucratif - (En construction)
+
 News
+
+Nouvelles
 
 LetsTalkPayments CES2016
 
+idem
+
 TechCrunch
+
+idem
 
 NewsBtc US	
 
+idem
+
 BlockChain BP
+
+idem
 
 Altcoins News
 
+Nouvelles Altcoins
+
 Satoshis Guru
 
+Gouroux Satoshis
+
 Cryptos Us
+
+idem
 
 Bitcoin Rush
 CryptoLix 	
 OK chain explorers
+
+Bitcoin Rush
+CryptoLix
+Explorateur de la chaîne OK
 
 CryptoId.info
 
@@ -374,10 +766,14 @@ Cryptopia.co.nz
 Multifaucet.tk
 Payments Processors
 
+Traitement de paiments
+
 Cripto-Pay.com
 
 CoinToPay.com
 Exchanges
+
+Échanges
 
 Bittrex.com
 
@@ -390,16 +786,27 @@ Cryptopia.co.nz
 YoBit.net
 OK Graphics
 
+Graphiques OK
+
 OKCash Logo 500px
 
 Promotional Graphics
 
+Graphiques promotionnels
+
 OK Wallpapers
+
+OK Fonds d'écran
 	
 Mining / Staking Pools
 
+Mineur / staker Pools
+
 OKCashpool.info - Multipool
+
 Charts and statistics
+
+Chartes et statistiques
 
 CoinGecko.com
 
@@ -420,186 +827,366 @@ CryptoCoinCharts.info
 ExchangeWar.info
 
 Saldigi.info
+
+Films
+
 Films
 
 OKCash Videos
 Learning resources
 
+Vidéo OKCash
+Ressources d'apprentissage
+
 (under construction) 
+
+(En construction)
 
 ******b9
 
 Community
+
+Communauté
  
+Forums
+
 Forums
 
 BitcoinTalk Forum
 
+Forum BitcoinTalk
+
 Reddit's OKCash Community
+
+Communauté OKCash sur Reddit
 
 BitcoinGarden
 
+idem
+
 Cryptopia
+
+idem
 
 CryptoScene
 
+idem
+
 CryptosUs
+
+idem
 
 AltcoinsFoundation
 
+idem
+
 AllCryptoTalk
+
+idem
 
 CryptoCoinTalk
 
+idem
+
 RaspberryPi
 
+idem
+
 Foro-Ptc
+idem
 
 ForoBits
 IRC Chat
 
+idem 
+
 IRC Channels on freenode.
 
+Canaux IRC sur freenode.
+
+Channau
+
+cannau
+
 #okcash (General OKCash-related)
+
+#okcash (Généralement lié avec okcash)
 	
 Social networks
 
+Réseaux sociaux
+
 Twitter Search
+
+Recherche Twitter
 
 OKCash Twitter Updates
 
+Mise à jour du Twitter OKCash
+
 Facebook Page
+
+Page Facebook
 
 Google+
 
+idem
+
 Tumblr - Updates
+
+Tumblr - Mise à jour
 
 Pinterest
 
+idem
+
 Instagram
+
+idem
 
 Youtube
 
+idem
+
 About
+
+À propos
 
 Voat
 Tip Bots
 
+Robots pourboire
+
 OKCashTip at Twitter
+
+OKCashTip sur Twitter
 
 OKCashTip at Reddit
 
+OKCashTip sur Reddit
+
 OKCashTip at IRC
+
+OKCashTip sur IRC
 
 ******c1
 
 Documentation
 
+Documentation
+
 OK Developer Documentation
 
+Documentation des développerus OK
 
 OKCash is inspired by, based on and supportive of Bitcoin.
 Find useful resources, guides and reference material for developers.
 (under construction)
 
- 
+OKCash est inspiré par, basé sur et de soutien de Bitcoin.
+Trouvez des ressources utiles, des guides et du matériel de référence pour les développeurs.
+(En construction)
 
 Guide
 	
+Guide
 
 Reference
 	
+Référence
 
 Examples
 	
+Exemples
 
-Glossary 
+Glossary
+
+Glossaire
 
 ******c2
 
 Innovation
 
+Innovation
+
 The Future of Social Payments
 
+Le future des paiments sociaux
+
 The OKCash protocol is not just about sending money from A to B. It has a strong and constantly growing social presence, an Universal name and It has many features like Encrypted Anon Messages Chat, Optional Anonymous tokens and opens many possibilities that the community is still exploring. Here are some of the technologies currently being researched and in some cases, turned into real products and services. The most interesting uses of OKCash are probably still to be discovered.
+
+Le protocole OKCash ne consiste pas simplement à envoyer de l'argent de A à B. Il a une présence sociale forte et constamment en croissance, un nom universel et il a de nombreuses fonctionnalités telles que des messages anonyme chiffrés, jetons anonymes facultatifs et ouvre de nombreuses possibilités que la communauté est encore en train d'explorer. Voici quelques-unes des technologies actuellement étudiées et, dans certains cas, transformées en véritables produits et services. Les utilisations les plus intéressantes de OKCash sont probablement encore à découvrir.
 
  
 Protection against fraud
 
+Protection contre la fraude
+
 An unprecedented level of security is possible with OKCash. The network provides users with protection against most prevalent frauds like charge backs or unwanted charges, and OKCash are impossible to counterfeit. Users can backup or encrypt their wallet and hardware wallets could make it very difficult to steal or lose money in the future. OKCash is designed to empower and allow its users to have complete control over their money.
+
+Un niveau de sécurité sans précédent est possible avec OKCash. Le réseau fournit aux utilisateurs une protection contre les fraudes les plus répandues, comme les accusations de remboursement ou les frais indésirables, et OKCash sont impossibles à contrefaire. Les utilisateurs peuvent sauvegarder ou chiffrer leur portefeuille et les portefeuilles matériels pourraient rendre très difficile de voler ou de perdre de l'argent à l'avenir. OKCash est conçu pour donner du pouvoir et permettre à ses utilisateurs d'avoir un contrôle complet sur leur argent.
+
 Worldwide accessibility
+
+Accessibilité partout dans le monde
 
 All payments in the world can be fully inter operable. OKCash allows any bank, business or individual to securely send and receive payments anywhere at any time, with or without a bank account. OKCash is available in a large number of countries that still remain out of reach for most payment systems due to their own limitations. OKCash increases worldwide access to commerce and it can help international trades to flourish.
 Cost efficiency, Energy friendly
+
+Tous les paiements dans le monde peuvent être entièrement interopérables. OKCash permet à n'importe quelle banque, entreprise ou particulier d'envoyer et de recevoir des paiements en toute sécurité n'importe où, en tout temps, avec ou sans compte bancaire. OKCash est disponible dans un grand nombre de pays qui restent hors de portée pour la plupart des systèmes de paiement en raison de leurs propres limites. OKCash augmente l'accès mondial au commerce et peut aider les métiers internationaux à s'épanouir.
+Efficacité énergétique
+
 Long term sustainability
 
+Durabilité à long terme
+
 With the use of cryptography, secure payments are possible without slow and costly middlemen. An OKCash transaction can be much cheaper than its alternatives and be completed in a shorter time. This means OKCash holds some potential to become a common way to transfer any currency in the future. OKCash could also play a role just like Bitcoin in reducing poverty in many countries by cutting high transaction fees on worker's salary. OKCash uses Proof of Stake technology, meaning there is no need for special equipment or high energy bills to pay like it happens with most cryptocurrencies, making OKCash Long Term sustainable and Energy friendly.
+
+Avec l'utilisation de la cryptographie, les paiements sécurisés sont possibles sans intermédiaires lents et coûteux. Une transaction OKCash peut être beaucoup moins cher que ses alternatives et être terminée dans un temps plus court. Cela signifie que OKCash détient un certain potentiel pour devenir un moyen courant de transférer n'importe quelle devise à l'avenir. OKCash pourrait également jouer un rôle comme Bitcoin dans la réduction de la pauvreté dans de nombreux pays en réduisant les frais de transaction élevés sur le salaire des travailleurs. OKCash utilise la technologie «Preuve de Stake», ce qui signifie qu'il n'est pas nécessaire de payer des équipements spéciaux ou des factures couteûse en électricité comme c'est le cas pour la plupart des autres devises virtuels, ce qui rend OKCash durable et respectueux de l'environnement.
+
 Tips and donations
 
+Pourboire et donations
+
 OKCash has been a particularly efficient solution for tips and donations in several cases taking social economic interactions to the next level. Sending a payment only requires one click and receiving donations can be as simple as displaying a QR code. Tips and Donations can be visible for the public and can be received even over social networks where it uses the user name instead of OKCash addresses to send and receive OKCash, giving it increased social potential and transparency for non-profit organizations. In cases of emergencies such as natural disasters, OKCash donations could contribute to a faster international response.
+
+OKCash a été une solution particulièrement efficace pour les conseils et les dons dans plusieurs cas en prenant des interactions sociales économiques de second niveau. Envoyer un paiement nécessite seulement un clic et recevoir des dons peut être aussi simple que d'afficher un code QR. Conseils et dons peuvent être visibles pour le public et peuvent être reçus même sur les réseaux sociaux où il utilise le nom d'utilisateur au lieu des adresses OKCash pour envoyer et recevoir OKCash, lui donnant un potentiel social accru et la transparence pour les organisations à but non lucratif. Dans les cas d'urgence tels que les catastrophes naturelles, les dons de OKCash pourraient contribuer à une réponse internationale plus rapide.
+
 Social Crowdfunding
 
+Financement participatif sociaux
+
 OKCash can be used to run Kickstarter-like crowdfunding campaigns and launch Social Crowdfunding campaigns with HeadTalker, in which individuals pledge money to a project that is taken from them only if enough pledges are received to meet the target or share an idea or project to support and create awareness. Assurance contracts are processed by the OKCash protocol, which prevents a transaction from taking place until all conditions have been met.
+
+OKCash peut être utilisé pour lancer des campagnes de financement comme Kickstarter et lancer des campagnes de financement soacial avec HeadTalker, dans lesquels les individus promettent de l'argent à un projet qui est pris d'eux seulement si suffisamment de gages sont reçus pour atteindre la cible ou partager une idée ou un projet à soutenir Et de sensibiliser. Les contrats d'assurance sont traités par le protocole OKCash, ce qui empêche une transaction d'avoir lieu jusqu'à ce que toutes les conditions ont été remplies.
+
 Mobile payments
 Micro payments
 
+Paiments mobile
+Micro paiements
+
 Imagine paying for your coffee or gas with ease from the tip of your fingers with 1 click on your mobile phone, viewing web pages with a small tip for each ad not shown, or buying bandwidth from a WiFi hotspot by the kilobyte. OKCash is efficient enough to make all of these ideas possible. Payments happen virtually instant and the number of OKCash coins in existence will be 5x times Bitcoin, giving it full potential for mobile - micro payments development and use.
+
+Imaginez payer votre café ou votre gaz avec facilité à partir de la pointe de vos doigts avec un clic sur votre téléphone mobile, la visualisation des pages Web avec une petite astuce pour chaque annonce non montrée, ou l'achat de bande passante d'un hotspot WiFi par le kilobyte. OKCash est assez efficace pour rendre toutes ces idées possibles. Les paiements se produisent presque instantanément et le il existera 5 fois plus d'OKCash que de Bitcoin, ce qui lui donne tout son potentiel pour le développement et l'utilisation de micro-paiements mobiles.
 	  	
 Automated solutions, IoT, ROKOS
 
+Solutions automatisées, IoT, ROKOS
+
 Automated services usually have to deal with costs and limitations of cash or credit card payments. This includes all kinds of vending machines, from bus ticket booths to coffee machines. OKCash is suited to be used in a new generation of automated services as well as to cut their operating costs. Imagine self-driving taxis, or a store where your basket lets you pay your purchases without waiting at the queue. Many ideas are possible. OKCash has a release focused for the upcoming IoT technology code named ROKOS for Raspberry Pi devices, which includes clients for the top cryptocurrencies and is distributed for free to support the IoT/Crypto adoption.
+
+Les services automatisés ont généralement à gérer les coûts et les limites des paiements en espèces ou par carte de crédit. Cela inclut toutes sortes de distributeurs automatiques, des guichets de billet d'autobus aux machines à café. OKCash est adapté pour être utilisé dans une nouvelle génération de services automatisés ainsi que pour réduire leurs coûts d'exploitation. Imaginez des taxis autonomes, ou un magasin où votre panier vous permet de payer vos achats sans attendre à la file d'attente. De nombreuses idées sont possibles. OKCash a une libération focalisée sur le prochain code de technologie IoT nommé ROKOS pour les appareils Raspberry Pi, qui comprend des clients pour les devise virtuels haut de gamme et est distribué gratuitement pour prendre en charge l'adoption IoT / Crypto.
+
 Trust and integrity
 
+Confiance et intégrité
+
 OKCash offers solutions to many of the trust problems that plague banks. With selective accounting transparency, digital contracts, and irreversible transactions, OKCash can be used as a ground to restore trust and agreement. Crooked banks cannot cheat the system to make a profit at the expense of other banks or the public. A future in which major banks would support OKCash could help to reinstate integrity and trust in financial institutions.
+
+OKCash offre des solutions à bon nombre des problèmes de confiance qui affligent les banques. Avec une transparence comptable sélective, des contrats numériques et des transactions irréversibles, OKCash peut servir de base pour rétablir la confiance et l'accord. Les banques malveillante ne peuvent pas tricher le système de faire un profit au détriment d'autres banques ou le public. Un avenir où les grandes banques appuieraient OKCash pourrait aider à rétablir l'intégrité et la confiance dans les institutions financières.
+
 Resilience and decentralization
 
+Résilience et décentralisation
+
 By its high decentralization, OKCash created a different form of payment network with an increased level of resilience and redundancy. OKCash can handle millions of dollars in trades without requiring military protection. With no central point of failure such as a data center, attacking the network is a more difficult project. OKCash could represent an interesting step forward in securing local and global financial systems.
+
+Par sa grande décentralisation, OKCash a créé une autre forme de réseau de paiement avec un niveau accru de résilience et de redondance. OKCash peut gérer des millions de dollars dans les métiers sans nécessiter de protection militaire. Sans point central d'échec comme un centre de données, attaquer le réseau est un projet plus difficile. OKCash pourrait représenter une avancée intéressante dans la sécurisation des systèmes financiers locaux et mondiaux.
+
 Private Messages
 
+Messages Privé
+
 An Encrypted Messages Chat system comes integrated within the OKCash Core wallet, giving the users the possibility to establish secure and even anonymous communications, protecting the users privacy and empowering them with a social and secure worldwide communication system.
+
+Un système de message chiffré est intégré au portefeuille OKCash Core, permettant aux utilisateurs d'établir des communications sécurisées et même anonymes, de protéger la vie privée des utilisateurs et de leur donner un système de communication social et sécurisé à l'échelle mondiale.
+
 Proof of Stake
 Saving-Sharing economy
 
+Preuve de Stake
+Economie d'épargne-économie
+
 OKCash is been continuously created by the Nodes that secure the network, meaning the users that keep their wallets opens gain a % Reward on the coins they stake, making OKCash a perfect system for a sharing economy, where the users that support and secure the network gains the rewards that can then be redistributed in the network.
+
+OKCash a été créé en permanence par les nœuds qui sécurisent le réseau, ce qui signifie que les utilisateurs qui gardent leurs portefeuilles bénéficient d'un % de récompense sur les pièces qu'ils gardent, faisant d'OKCash un système parfait pour une économie de partage, où les utilisateurs qui supportent et sécurisent le réseau gagne des récompenses qui peuvent alors être redistribuées dans le réseau.
+
 Multi-signature accounts
 
+Comptes multi-signature
+
 Multiple signatures allow a transaction to be accepted by the network only if a certain number of a defined group of persons agree to sign the transaction. This could be used by a board of directors to prevent any member to spend parts of their treasury without other members' consent. This can also be used by banks to prevent theft by blocking payments above a threshold if the user does not provide additional credentials.
+
+Les signatures multiples permettent à une transaction d'être acceptée par le réseau uniquement si un certain nombre d'un groupe défini de personnes accepte de signer la transaction. Cela pourrait être utilisé par un conseil d'administration pour empêcher tout membre de dépenser une partie de son trésor sans le consentement des autres membres. Cela peut également être utilisé par les banques pour empêcher le vol en bloquant les paiements au-dessus d'un seuil si l'utilisateur ne fournit pas d'informations d'identification supplémentaires.
+
 Dispute mediation
 
+Médiation des différends
+
 OKCash can be used to develop innovative dispute mediation services using multiple signatures. Such services could make it possible for a third party to approve or reject a transaction in case of disagreement between the other parties without having control on their money. Since these services would be compatible with any user and merchant using OKCash, this would likely lead to free competition and higher quality standards.
+
+OKCash peut être utilisé pour développer des services innovateurs de médiation de litiges utilisant plusieurs signatures. De tels services pourraient permettre à un tiers d'approuver ou de rejeter une transaction en cas de désaccord entre les autres parties sans avoir le contrôle sur leur argent. Étant donné que ces services seraient compatibles avec tout utilisateur et commerçant utilisant OKCash, cela conduirait probablement à la libre concurrence et à des normes de qualité plus élevées.
 
 ******c3
 
 Frequently Asked Questions
+
+Questions fréquemment posées
  
 If I understand correctly, you have to leave this wallet open on your computer to stake (earn). What exactly is it connected to, and do these connections make it/me more susceptible to being hacked or the contents of my wallet compromised? Is that why I should encrypt my wallet?
 First assumption is correct, OKCash is a Proof of Stake cryptocurrency which is more sustainable long term, more fair with the coin holders and way more Eco-friendly than Proof of work.
 
+Si je comprends bien, vous devez laisser ce portefeuille ouvert sur votre ordinateur pour pouvoir staker (gagner). À quoi exactement est-il relié, et ces connexions me rendent-elles plus susceptibles d'être piratés ou le contenu de mon portefeuille volé? Est-ce pour cela que je devrais crypter mon portefeuille?
+La première hypothèse est correcte, OKCash est une devise virtuel de preuve de Stake qui est plus durable à long terme, plus équitable avec les détenteurs de pièces de monnaie et plus Eco-friendly que la preuve de travail.
+
 -To stake: You need to have coins in your wallet and leave it running, this wallet is a "node" in the network, The OKCash network is created by a lot of this nodes scattered around the world, anywhere where people download and start staking their coins, That is why it is Decentralized and free from middle men, as the users are the real power behind the network, so this nodes connect to each other and there is no Central authority or single points of failure like with masternodes or other way of distribution.  After leaving your wallet open, around 24 hrs later you should start getting your first stakes (coins) and this coins get mature and ready for use after 69 confirmations in the network which you can check in the wallet under the transactions tab.
+
+-Pour staker: Vous devez avoir des pièces de monnaie dans votre portefeuille et le laisser fonctionner, ce portefeuille est un «nœud» dans le réseau. Le réseau OKCash est créé par un grand nombre de nœuds disséminés dans le monde, partout où les gens le téléchargent et le démarrent, c'est pourquoi qu'il est décentralisé et libéré de tiers partie, comme les utilisateurs sont en véritable contrôle derrière le réseau, donc ces nœuds se connecte les uns aux autres et il n'y a pas d'autorité centrale ou des points uniques d'échec comme avec masternodes ou autres Mode de distribution. Après avoir laissé votre portefeuille ouvert, environ 24 heures plus tard vous devriez commencer à obtenir vos premiers stakes (pièces) et ces pièces deviennent matures et prêt à utiliser après 69 confirmations dans le réseau que vous pouvez vérifier dans le portefeuille sous l'onglet transactions.
 
 -Security: The connections to the wallet are normal as they are other nodes connecting to yours and vice versa, your wallet automatically blocks unofficial or malicious nodes it detects, even so you could download and use malawarebytes to increase the security as it blocks malicious ip addresses extending even more the security of your connections, to have maximum security you should always download official clients and only from official sources.
 
+-Sécurité: Les connexions au portefeuille sont normales car elles sont d'autres nœuds se connectant au vôtre et vice versa. Votre portefeuille bloque automatiquement les noeuds non officiels ou malveillants qu'il détecte, même si vous pouvez télécharger et utiliser malawarebytes pour augmenter la sécurité car il bloque les adresses IP malveillante qui étendent encore plus la sécurité de vos connexions, pour avoir une sécurité maximale vous devriez toujours télécharger des clients officiels et seulement de sources officielles.
+
 -Wallet encryption: You should encrypt your wallet so in case anyone else gets access to your computer (Via physical or internet access) they can not use or spend your coins as they would require the password to send any transaction as well, and the information inside its encrypted.
 
+- Cryptage du portefeuille: Vous devez chiffrer votre porte-monnaie de sorte à ce que si quelqu'un d'autre obtient l'accès à votre ordinateur (via l'accès physique ou Internet) ils ne peuvent pas utiliser ou dépenser vos pièces car ils exigeraient le mot de passe pour faire des transactions, également, les informations a l'interieure du portefeuille seront chiffrés
+
 To Stake you can unlock only the staking process by selecting the small box "stake only" when unlocking your wallet, that way will still require your password to send coins out of your wallet but it will be able to do the stake process. (A fully encrypted and locked wallet does not stake)
+
+Pour Staker, vous pouvez déverrouiller uniquement le processus qui permet de staker en sélectionnant la petite case "Seulement pour staker" lors du déverrouillage de votre portefeuille. De cette façon, il aura toujours besoin de votre mot de passe pour envoyer des pièces de monnaie de votre portefeuille, mais il sera en mesure de faire le processus de stake. (Un portefeuille entièrement chiffré et verrouillé ne peut pas staker)
 
 -
 
 If I want to back up the wallet, it prompts me to save a .dat file. I'm assuming that's in case my computer goes belly up and I lose my hard drive. How would I restore and point the new wallet install to that old .dat file if that happens?
 More properly speaking that wallet.dat file is your real personal wallet (the program people normally call a wallet is in fact a Client or Daemon if is used under its graphical or command line interface).  So your real "Wallet" and the file you should always keep secure backups of it is that .dat file.
 
+Si je veux sauvegarder le portefeuille, il me demande de sauvegarder un fichier .dat. Je suppose que c'est dans le cas où mon ordinateur va aller six pieds sous terre et perds mon disque dur. Comment puis-je restaurer et pointer le nouveau portefeuille d'installation à ce vieux fichier .dat si cela se produit?
+Plus exactement parlant que le fichier wallet.dat est votre portefeuille personnel réel (le programme que les gens appellent normalement un portefeuille est en fait un Client ou Daemon s'il est utilisé sous son interface graphique ou de ligne de commande). Donc, votre véritable "Portefeuille" et le fichier que vous devriez toujours garder des sauvegardes sécurisées de celui-ci est ce fichier .dat.
+
 -Wallet.dat: This file contains your private keys, in easier terms  it holds your addresses and all the coins in them, that is why only you can use those coins, because only you have this private keys, if someone else get access to the private keys they could spend the coins, hence why encryption and security is important, and having a backup of it on a secure usb device just in case of anything happens to that computer.
+
+-Wallet.dat: Ce fichier contient vos clés privées, en termes plus faciles il détient vos adresses et toutes les pièces en eux, c'est pourquoi seulement vous pouvez utiliser ces pièces, parce que vous seul possédez ces clés privées, si quelqu'un d'autre accès à ces clés privées, il pourraient dépenser les vos OKCash. C'est pourquoi le chiffrement et la sécurité est important, et d'avoir une sauvegarde de celui-ci sur un périphérique usb sécurisé juste en cas de quelque chose arrive à cet ordinateur.
 
 To restore a wallet you just need to place the wallet.dat file into the Data folder, For example:
 
-On Windows you can find that folder at: %appdata%/roaming/okcash and then just start the Qt client and let it Sync.
+Pour restaurer un portefeuille, il suffit de placer le fichier wallet.dat dans le dossier Données, par exemple:
+
+On Windows you can find that folder at: %appdata%\roaming\okcash and then just start the Qt client and let it Sync.
+
+Sous Windows, vous pouvez trouver ce dossier à: %appdata%\roaming\okcash, puis démarrez le client Qt et laissez-le se synchroniser.
 
 -
 
 How long does it take for coins to be considered "mature" and start earning?
 The coins are able to start getting stake (earning) after the first 8 hours in your open wallet, depending on the people staking in the network you could start earning your first stakes after 24 hrs or more before you start watching a constant influx as they are gaining weight in the network.
 
+Combien de temps faut-il pour que les pièces soient considérées comme «matures» et commencent à staker?
+Les pièces de monnaie sont capables de commencer à staker (gagner) après les 8 premières heures dans votre portefeuille ouvert, selon les personnes qui stake dans le réseau, vous pourriez commencer à gagner vos premiers stake après 24 heures ou plus avant de commencer à regarder un afflux constant puisqu'ils gagnent du poids dans le réseau.
+
 -Maturity: a coin is mature when you are able to use it, on OKCash your coins mature after 69 confirmations.
+
+-Maturity: une pièce à maturée quand vous êtes en mesure de l'utiliser, sur OKCash vos pièces arrivent à maturité après 69 confirmations.
 
 -
 
@@ -607,32 +1194,60 @@ The coins are able to start getting stake (earning) after the first 8 hours in y
 Speaking of backing up the wallet, should you only back it up and keep the latest copy, or can you back it up again and again at different points in time? I guess I'm wondering if it's like a snapshot or not.
 This works a bit different from that perception we have of files.
 
+Parlant de sauvegarder le portefeuille, devriez-vous seulement sauvegarder et conserver la dernière copie, ou pouvez-vous le sauvegarder encore et encore à différents moments? Je suppose que je me demande si c'est comme un instantané ou non.
+Cela fonctionne un peu différent de la perception que nous avons des fichiers.
+
 As we just saw, our wallet stores private keys (addresses) and we have to remember that there is a blockchain (where all the transactions are stored), the blockchain is stored across all the OKCash network nodes hence is decentralized and always available.
+
+Comme nous venons de le constater, notre portefeuille stocke les clés privées (adresses) et nous devons nous rappeler qu'il ya une chaîne de bloques (où toutes les transactions sont stockées), la chaîne de bloques est stocké dans tous les nœuds du réseau OKCash, donc décentralisé et toujours disponible.
 
 So. If you create a backup of your wallet when it has only 3 addresses, you could consider that backup valid and all your coins safe no matter when on time, as long as you dont create another address, as that backup only has 3 saved, so if you create more addresses then you would require to make a new backup, so you really have a full backup of all of your private keys (addresses).
 
+Alors. Si vous créez une sauvegarde de votre portefeuille quand il a seulement 3 adresses, vous pouvez considérer que la sauvegarde est valide et toutes vos pièces de monnaie seront sûres, n'importe quand et à n'importe quel l'heure, aussi longtemps que vous ne créez pas une autre adresse, comme cette sauvegarde a seulement 3 sauvés donc, si vous créez plus d'adresses, alors vous auriez besoin de faire une nouvelle sauvegarde, donc vous avez vraiment une sauvegarde complète de toutes vos clés privées (adresses).
+
 As the Blockchain or in this case OKChain stores the transactions, as long as you have your private keys, the coins in those addresses are safe. So if you lose your hard drive with 600 coins in it, as long as your backup holds the private key for that address, you will have the full balance, no matter if someone send you more coins to that address and you had the computer off, you would still have the 600 coins and the new ones people send you as the transactions  are stored on the Chain so are never lost, and as you hold the keys for your address, then only you can access them.
+
+Quand la chaîne de blocques ou dans ce cas OKChain stocke les transactions, aussi longtemps que vous avez vos clés privées, les pièces dans ces adresses sont sûrs. Donc, si vous perdez votre disque dur avec 600 pièces de monnaie en elle, tant que votre sauvegarde détient la clé privée pour ces adresses, vous ne perderez pas vois pièces, peu importe si quelqu'un vous envoie plus de pièces de à cette adresse et ou que votre ordinateur et hors ligne, vous aurez toujours les 600 pièces et transaction faites sur la chaîne de bloques ne sont jamais perdu et vous receverer les clés de vos adresses, alors seulement vous pouvez y accéder.
 
 -
 
 What is your weight and network weight in the wallet mean? Does it affect how long it takes to get rewarded via staking? I've seen it say anywhere from 200 days to over a thousand days to earn reward. Just curious.
 In easy terms, You could think in your weight as "age and quality" of the coins in your wallet for stake.
 
+Quel est votre poids et le poids du réseau dans le portefeuille? Cela affecte-t-il le temps d'attente requis pour être récompensé par le stake? J'ai vue des alertes de 200 jours jusqu'à plus de mille avant de recevoir une récompense de stake. Juste curieux.
+En termes faciles, vous pourriez penser dans votre poids comme "l'âge et la qualité" des pièces dans votre portefeuille pour le jeu.
+
 In more technical terms:
+
+En termes plus techniques
 
 The weight of every address starts at 0.
 When an address provides a signature, its weight increases so that after several signatures,
 the weight approaches the number of coins in the address as of the last signature block:
 
+Le poids de chaque adress commence à 0.
+Quand votre adress émet une signature, sont poids augmente de façon à ce que après plusieurs signature, 
+le poids s'approche du nombre de pièces dans l'adress depuis la dernière signature de bloque:
+
 New weight = 0.9 * Old weight + 0.1 * Balance
+
+Nouveau poid = 0.9 * vieux poid + 0.1 * Balance
 
 If a signature is not provided by the address in a signature block, its weight decreases:
 
+Si une signature n'est pas émis par l'adress dans un bloque de signature, sont poid diminue
+
 New weight = 0.9 * Old weight
+
+Nouveau poid = 0.9 * vieux poid
 
 This way, addresses whose owners do not wish to participate in signing do not hamper the ability to reach a majority.
 
+De cette façon, les adresses dont les propriétaires ne souhaitent pas participer à la signature ne gênent pas la capacité d'atteindre une majorité.
+
 If an address signs two conflicting blocks, its weight is reset to 0. This is to limit the power of malicious stakeholders.
+
+Si une adresse signe deux blocs en conflit, son poids est réinitialisé à 0. Ceci est pour limiter la puissance des parties prenantes malveillantes.
 
 ******c4
 
@@ -646,15 +1261,27 @@ Russian
 
 German
 
+French
+
 ******c5
 
  Terms of Use
+ 
+ Terms d'utilisation
 
 OKCash is only intended for legal purposes and should not be used in any other way. Neither OKCash, nor any of it is developers or contributors, support any illegal activities and won’t assist them in any way.
 
+OKCash est uniquement destiné à des fins légales et ne doit pas être utilisé de toute autre manière. Ni OKCash, ni aucun des développeurs ou contributeurs, soutient toute activité illégale et ne les aidera pas, sous aucune condition.
+
 As far as we know, the use of OKCash is not illegal in most jurisdictions. However, some jurisdictions may impose limitations on the use of cryptocurrencies and/or privacy protection tools, so users in those jurisdictions should consider this before using OKCash. If in doubt, please contact a local attorney to avoid doing anything that could be considered illegal in your jurisdiction.
+
+Autant que nous le sachions, l'utilisation d'OKCash n'est pas illégale dans la plupart des juridictions. Toutefois, certaines juridictions peuvent imposer des restrictions à l'utilisation de devise virtuel et / ou d'outils de protection de la vie privée, de sorte que les utilisateurs de ces juridictions devraient en tenir compte avant d'utiliser OKCash. En cas de doute, veuillez communiquer avec un procureur local afin d'éviter de faire quoi que ce soit qui pourrait être considéré comme illégal dans votre juridiction.
 
 The content of this website, or others associated with OKCash, does not constitute legal advice. If you have legal doubts or need assistance, please contact an attorney in your jurisdiction.
 
+Le contenu de ce site Web ou d'autres sites associés à OKCash ne constitue pas un avis juridique. Si vous avez des doutes juridiques ou avez besoin d'aide, veuillez communiquer avec un avocat dans votre juridiction.
+
 The content of this website or others associated with OKCash is not investment advice. You should use your own judgement and research multiple information sources before investing in OKCash.
+
+Le contenu de ce site Web ou d'autres personnes associées à OKCash ne sont pas des conseiller en investissement. Vous devez utiliser votre propre jugement et de recherche avec des sources multiple afin de trouver plus d'information avant d'investir dans OKCash.
 
