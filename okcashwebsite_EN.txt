@@ -248,7 +248,7 @@ Il n'ya pas de frais pour recevoir OKCash, et les frais d'envoi sont seulement d
 
 Protection against fraud
 
-Protextion contre la fraude
+Protection contre la fraude
 
 Any business that accepts credit cards or PayPal knows the problem of payments that are later reversed. Charge back frauds result in limited market reach and increased prices, which in turn penalizes customers. OKCash payments are irreversible and secure, meaning that the cost of fraud is no longer pushed onto the shoulders of the merchants.
 
